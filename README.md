@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  o Ricardo Toldo
-- 👀 I’m interested in  aprender a programar
-- 🌱 I’m currently learning  back e front end
+- 👋 meu nome é Ricardo Toldo
+- 👀 Tenho interece em aprender a programar
+- 🌱 Estou aprendendo back e front end
 - 📫  @ricardotoldo e ricardo.toldo96@gmail.com
 
 <!---
